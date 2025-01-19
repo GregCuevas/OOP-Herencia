@@ -1,4 +1,4 @@
-// Ejercicio 1: Jerarquía de clases para la escuela en C#
+// Ejercicio 1: Jerarquía de clases para la escuela en CSHARP
 using System;
 using System.Collections.Generic;
 
